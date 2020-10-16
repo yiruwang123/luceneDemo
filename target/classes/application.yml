@@ -1,0 +1,4 @@
+#关掉thymleaf缓存，注意格式
+spring:
+  thymeleaf:
+    cache: false
